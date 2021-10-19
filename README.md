@@ -1,5 +1,5 @@
-#Income Tax Incentives for Electronic Payments:
-#Evidence from Greece's Electronic Consumption Tax Discount
+# Income Tax Incentives for Electronic Payments:
+# Evidence from Greece's Electronic Consumption Tax Discount
 
 ## Panayiotis Nicolaides, 2021 - Replication Code
 
@@ -54,7 +54,7 @@ interested in accessing the data, simply write to me.
 
 All do files are concise and included in the DO folder.
 
-##Data Preparation
+## Data Preparation
 
 The Do file 001_data_cleaning.do loads and cleans the .xls file. Please change
 the working directory accordingly before running the file to your desired
@@ -79,13 +79,13 @@ various individual variables during the Panel analysis.
 
 For merging follow commands:
 
-    Load the Panel dataset first,
+Load the Panel dataset first,
 
-    `<addr>` use "DTA/SAMPLE_PANEL.dta"
+    use "DTA/SAMPLE_PANEL.dta"
 
-    Merge the Fixed dataset,
+Merge the Fixed dataset,
 
-    `<addr>` merge m:1 N using "DTA/SAMPLE_FIXED.dta"
+    merge m:1 N using "DTA/SAMPLE_FIXED.dta"
 
 
 ## Threshold-Targeting and Responses in the Reporting Margin
