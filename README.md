@@ -1,10 +1,11 @@
-# Income Tax Incentives for Electronic Payments:
-# Evidence from Greece's Electronic Consumption Tax Discount
+# Income Tax Incentives for Electronic Payments: Evidence from Greece's Electronic Consumption Tax Discount
 
-## Panayiotis Nicolaides, 2021 - Replication Code
+Replication Code
 
-This is a replication code of Income Tax Incentives for Electronic Payments,
-Evidence from Greece's Electronic Consumption Tax Discount. **ECTD** for short.
+This is a replication code of *Income Tax Incentives for Electronic Payments,
+Evidence from Greece's Electronic Consumption Tax Discount*. **ECTD** for short.
+
+You can find the current version of the paper [here](https://panosni.github.io/publication/ectd/ECTD.pdf).
 
 The code replicates the current version of the working paper in 2021. It will be
 updated accordingly during the publication process.
