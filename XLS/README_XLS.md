@@ -1,4 +1,4 @@
-#Data Availability Statement
+# Data Availability Statement
 
 The dataset consists of 50,000 anonymised, non-identifiable and randomly-drawn
 tax units from the 2017-2018 taxpayer population in Greece.
